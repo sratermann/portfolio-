@@ -20,5 +20,6 @@
 
 ## Projects 
 **The Finances of a Winning Football Team**
+
 [Publication](projects/PDAT-620G-Final-Draft.pdf)
 
