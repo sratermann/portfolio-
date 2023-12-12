@@ -21,7 +21,9 @@
 ## Projects 
 **The Finances of a Winning Football Team**
 
+By using R, analysis of roster salaries of National Football League Teams can be completed to predict a teams number of wins based on the amount of money they pay per position group. This analysis utilizes different techniques in conjunction with R and R Markdown. Techniques such as linear regression, CART Trees, and random forests tell a story about which football position group is the most valuable and least valuable in order to predict the number of wins a team achieves. This analysis with the combination of visualizations allows the reader to see that roster composition and payment in the National Football League is crucial to a sucessful season. The code used for the analysis is included at the end of the publication in the appendix.
+
 [Publication](projects/PDAT-620G-Final-Draft.pdf)
-[Code](projects/PDAT 620G Final Draft.Rmd)
+
 
 
