@@ -18,3 +18,5 @@
 - Supervised team of 65 student tour guides
 
 ## Projects 
+
+[publication](/assets/PDAT-620G-Final-Draft.pdf)
