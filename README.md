@@ -1,9 +1,7 @@
-# Data Scientist 
+## Education 
 
-### Education 
+## Skills 
 
-### Skills 
+## Work Experience 
 
-### Work Experience 
-
-### Projects 
+## Projects 
