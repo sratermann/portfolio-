@@ -1,6 +1,7 @@
 ## Education 
-- B.S. Statistics with a Concentration in Data Science | Truman State University (May 2022)
-- M.S. Data Science & Analytical Storytelling | Truman State University (May 2024)
+**Truman State University**
+- B.S. Statistics with a Concentration in Data Science (May 2022)
+- M.S. Data Science & Analytical Storytelling (May 2024)
 
 ## Technical Skills 
 - R
