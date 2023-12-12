@@ -19,4 +19,3 @@
 
 ## Projects 
 
-[publication](/assets/PDAT-620G-Final-Draft.pdf)
